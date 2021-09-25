@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Machine Learning Engineer. :crystal_ball:
+I am an A.I Engineer. :crystal_ball:
 
 I :heart: &nbsp; :trophy: &nbsp; :trophy: &nbsp; :trophy:

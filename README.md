@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I am an A.I Engineer. :crystal_ball:
+I love Artificial Intelligence. :crystal_ball:
 
 I :heart: &nbsp; :trophy: &nbsp; :trophy: &nbsp; :trophy:

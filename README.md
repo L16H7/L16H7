@@ -4,7 +4,7 @@ I am Lin. I am an AI Engineer operating at the intersection of **Language models
 
 ### Applied AI Engineering
 I am building AI memory for LLM agents, planning to ship open-source memory system this summer.
-### Recent tech pieces
+#### Recent tech pieces
 - https://github.com/L16H7/langchain-gemini-3-thought-signatures
 
 ### Research Engineering

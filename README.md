@@ -25,7 +25,7 @@ Mic drop!
 https://light.aileap.org/
 
 ### LinkedIn
-https://www.linkedin.com/in/coderlight/
+https://www.linkedin.com/in/light-ai-leap/
 
 <!--
 **L16H7/L16H7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

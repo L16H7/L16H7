@@ -1,17 +1,25 @@
 ## Hello, world!
+I am Lin. I am doing AI research.
 
-I am Lin. I am an AI Engineer operating at the intersection of **Language models** and **Reinforcement Learning**.
+I believe in intelligence.
+Intelligence can be harnessed and it can be used to create near perfect world.
+If we can create intelligence, we have a moral responsibility to do so.
 
-### Applied AI Engineering
-I am building AI memory for LLM agents, planning to ship open-source memory system this summer.
-#### Recent tech pieces
-- https://github.com/L16H7/langchain-gemini-3-thought-signatures
+AI research since 2025
 
-### Research Engineering
-In my personal time, I read machine learning papers and run experiments.
-#### Recent experiments
-- Introduction to Hierarchical RL in robotics, https://github.com/L16H7/hierarchical-rl-for-beginners
-- Basic imitation learning, https://github.com/L16H7/Lunar-DAgger
+### Research areas and interests
+- Reinforcement Learning
+- Meta Learning
+- Multi-agent Reinforcement Learning
+
+Previously doing software engineering 2018 - 2024
+
+I am Burmese so here's my favorite quote in Burmese.
+"ငုပ်မိသဲတိုင် တက်နိုင်ဖျားရောက်"
+Loose translation: "If you dive, touch the sea floor. If you climb, reach the summit."
+
+In machine learning, it's like "If you minimize loss, hit the global minimum. If you optimize reward, go for the global maximum."
+Mic drop!
 
 ### Personal Blog
 https://light.aileap.org/

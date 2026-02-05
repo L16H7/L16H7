@@ -2,17 +2,17 @@
 I am Lin. I am doing AI research.
 
 I believe in intelligence.
-Intelligence can be harnessed and it can be used to create near perfect world.
-If we can create intelligence, we have a moral responsibility to do so.
+Intelligence can be harnessed to create a near-perfect world.
+If we have the ability to create intelligence, we have a moral responsibility to do so.
 
-AI research since 2025
+### AI Research (2025–Present)
 
 ### Research areas and interests
 - Reinforcement Learning
 - Meta Learning
-- Multi-agent Reinforcement Learning
+- Multi-Agent Reinforcement Learning
 
-Previously doing software engineering 2018 - 2024
+Background: Software Engineering (2018–2024)
 
 I am Burmese so here's my favorite quote in Burmese.
 "ငုပ်မိသဲတိုင် တက်နိုင်ဖျားရောက်"

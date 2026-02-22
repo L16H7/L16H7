@@ -21,6 +21,12 @@ Loose translation: "If you dive, touch the sea floor. If you climb, reach the su
 In machine learning, it's like "If you minimize loss, hit the global minimum. If you optimize reward, go for the global maximum."
 Mic drop!
 
+### Recent Experiments
+Outside of my research interests, I occassionally explore several research topics and experiments.
+
+- Introduction to Hierarchical RL in robotics, https://github.com/L16H7/hierarchical-rl-for-beginners
+- Basic imitation learning, https://github.com/L16H7/Lunar-DAgger
+  
 ### Personal Blog
 https://light.aileap.org/
 
